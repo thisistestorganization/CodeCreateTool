@@ -7,3 +7,4 @@ F:\ProjectCore(DDD)\CodeCreateTool\CodeCreateTool\obj\Debug\CodeCreateTool.Prope
 F:\ProjectCore(DDD)\CodeCreateTool\CodeCreateTool\obj\Debug\CodeCreateTool.csproj.GenerateResource.Cache
 F:\ProjectCore(DDD)\CodeCreateTool\CodeCreateTool\obj\Debug\CodeCreateTool.exe
 F:\ProjectCore(DDD)\CodeCreateTool\CodeCreateTool\obj\Debug\CodeCreateTool.pdb
+E:\Project\GitHub\CodeCreateTool\bin\Debug\CodeCreateTool.exe.config
