@@ -2,3 +2,11 @@ CodeCreateTool/obj/Debug/CodeCreateTool.csproj.GenerateResource.Cache
 CodeCreateTool/obj/Debug/DesignTimeResolveAssemblyReferences.cache
 CodeCreateTool.v12.suo
 CodeCreateTool/bin/Debug/CodeCreateTool.exe
+CodeCreateTool/bin/Debug/CodeCreateTool.vshost.exe
+*.pdb
+*.exe
+*.cache
+CodeCreateTool/obj/Debug/CodeCreateTool.Form1.resources
+*.resources
+CodeCreateTool/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+*.cs
