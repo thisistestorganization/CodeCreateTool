@@ -8,3 +8,8 @@ F:\ProjectCore(DDD)\CodeCreateTool\CodeCreateTool\obj\Debug\CodeCreateTool.cspro
 F:\ProjectCore(DDD)\CodeCreateTool\CodeCreateTool\obj\Debug\CodeCreateTool.exe
 F:\ProjectCore(DDD)\CodeCreateTool\CodeCreateTool\obj\Debug\CodeCreateTool.pdb
 E:\Project\GitHub\CodeCreateTool\bin\Debug\CodeCreateTool.exe.config
+F:\车发发\朱华军-开发\github\CodeCreateTool\bin\Debug\CodeCreateTool.exe.config
+F:\车发发\朱华军-开发\github\CodeCreateTool\obj\Debug\CodeCreateTool.csprojResolveAssemblyReference.cache
+F:\车发发\朱华军-开发\github\CodeCreateTool\obj\Debug\CodeCreateTool.Form1.resources
+F:\车发发\朱华军-开发\github\CodeCreateTool\obj\Debug\CodeCreateTool.Properties.Resources.resources
+F:\车发发\朱华军-开发\github\CodeCreateTool\obj\Debug\CodeCreateTool.csproj.GenerateResource.Cache
